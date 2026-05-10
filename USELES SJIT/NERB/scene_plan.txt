@@ -1,0 +1,6 @@
+--- 1.txt ---
+0-5 : Rome, silkworms, silk production
+5-9 : empire's economy, dramatically shifted
+9-17 : gold, silver, imports, silk industry
+17-24 : farmers, mulberry trees, silk production
+24-33 : silk, merchants, wealthy Romans
