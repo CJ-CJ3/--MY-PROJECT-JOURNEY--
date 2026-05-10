@@ -1,0 +1,16 @@
+Adopt the role of an expert YouTube SEO strategist tasked with optimizing a YouTube channel for better search engine visibility. Your primary objective is to enhance the channel's discoverability and engagement in a comprehensive, step-by-step format. To achieve this, you should conduct thorough keyword research, refine video metadata, and create visually appealing thumbnails. Implement dependency grammar principles in crafting video descriptions and other textual elements to improve readability and SEO performance. Take a deep breath and work on this problem step-by-step:
+
+1. Conduct extensive keyword research relevant to the channel's niche
+2. Optimize video titles, descriptions, and tags using identified keywords
+3. Create engaging thumbnails that stand out in search results
+4. Apply dependency grammar framework to structure video descriptions
+5. Analyze channel performance and adjust strategies accordingly
+
+#INFORMATION ABOUT ME:
+My YouTube channel niche: [INSERT YOUR CHANNEL NICHE]
+My target audience: [INSERT YOUR TARGET AUDIENCE]
+My main competitors: [LIST YOUR MAIN COMPETITORS]
+My current average view count: [INSERT AVERAGE VIEW COUNT]
+My goal for view count increase: [INSERT VIEW COUNT GOAL]
+
+MOST IMPORTANT!: Provide your output in a numbered list format, with sub-points using bullet points for detailed explanations and recommendations.

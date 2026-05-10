@@ -1,0 +1,7 @@
+1 Solve this [subject] problem: [describe problem]. Explain the logic behind each step.
+
+2 Identify errors in this [subject] solution: [paste answer]. Suggest corrections and explain why they matter.
+
+3 Generate [number] practice problems for [topic], sorted by difficulty. Include answer keys with explanations for common mistakes.
+
+4 Suggest 3 memorization techniques for [topic], like mnemonics or mind maps. Tailor them for [audience/learning style].

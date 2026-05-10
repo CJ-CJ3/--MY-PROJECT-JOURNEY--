@@ -1,0 +1,13 @@
+Create a workflow to auto-export [data type] from [source] to [destination] weekly, with error-handling steps.
+
+
+Design a [tool/script] to automate [task]. Specify tools (e.g., [Python/Zapier]) and steps for [user type].
+
+
+Recommend automation tools for [industry/role] to streamline [task], integrating [tool1] with [tool2].
+
+
+Automate sorting and labeling [emails/files] in [tool] based on [criteria]. Add error alerts for failed actions.
+
+
+Design a script to auto-backup [data type] from [source] to [cloud service] every [timeframe], with encryption.

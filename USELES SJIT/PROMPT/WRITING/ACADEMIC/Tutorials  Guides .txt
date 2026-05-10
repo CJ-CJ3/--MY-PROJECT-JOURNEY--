@@ -1,0 +1,7 @@
+Create a beginner-friendly tutorial for [task] in [field], including common mistakes to avoid.
+
+Create a [X]-day study plan for [topic]. Include key concepts, exercises, and resources for [skill level].
+
+Draft a troubleshooting guide for [task] when [common issue] occurs.
+
+Design a 2-week project to learn [skill] by building [example: a website/blog]. Include daily tasks and resources.

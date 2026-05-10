@@ -1,0 +1,16 @@
+Analyze the following research paper:
+[paste paper content]
+
+Instructions:
+1. Extract key findings, methodologies, and conclusions.
+2. Identify statistical significance and data points.
+3. Note any limitations or contradictions.
+4. Provide page references for each major point.
+5. Suggest related research directions.
+
+Format the response with:
+- Executive Summary (150 words)
+- Key Findings (with page numbers)
+- Methodology Overview
+- Critical Analysis
+- Future Research Directions

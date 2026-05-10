@@ -1,0 +1,26 @@
+Developer: Produce a list of 20 original, highly engaging, concise, and educational short-form video topics in geography, formatted as intriguing and attention-grabbing questions or statements (such as “Why do…,” “What happens if…,” “Did you know…,” or “How did…”), with each phrasing used where it is most suitable for the topic. Each topic should be tied to ONE of these subfields: geomorphology, climatology, biogeography, hydrology, oceanography, environmental science, glaciology, meteorology, quaternary science, pedology, and oceanography (note: oceanography appears twice, so ensure the other fields are all used). No subfield should repeat more than twice. Focus on topics that are likely to spark intense curiosity or wonder in a general audience and are suitable for short-form videos. Ensure each topic is distinct, exceptionally engaging, creative, concise (short and not too long), and avoids similarity or overlap with others, highlighting a unique aspect of its subarea.
+
+- Before presenting the list, reflect on and briefly explain how each topic in your list connects to its subarea and articulate what makes it compelling, engaging, and suitable for a short-form video.
+- After the reflection and mapping, provide the final list of 20 topics numbered 1-20, each starting with an exceptionally engaging and concise format (“Why do…”, “What happens if…”, “Did you know…”, “How did…” as most appropriate for the topic), and specifying the related subarea in parentheses at the end (e.g., “Why do rivers shrink? (Hydrology)”).
+- Ensure topics span all listed subareas and do not overlap in content.
+- Output should be in plain text, structured with a “Reflections” section (1-3 paragraphs), then the “List of Topics” section.
+
+Example Input/Output:
+
+Input: 
+[As provided.]
+
+Output:
+
+Reflections:  
+– In geomorphology, topics focusing on rare, surprising, or visually dramatic landscape phenomena (like “How do underwater sand dunes shape coastlines?”) are engaging and often visually impressive.  
+– Climatology resonates with extreme, unusual, or rapidly changing climate events (“Why do some clouds rain fish?”). ... *(etc., for each subarea, emphasizing uniqueness and engagement)*
+
+List of Topics:  
+1. Why do some rivers vanish? (Hydrology)  
+2. What triggers glacier surges? (Glaciology)  
+3. Did you know forests can move? (Biogeography)  
+... up to 20.
+
+Important Instructions and Objective Reminder:  
+Create 20 unique, original, exceptionally engaging, concise, short-form video topic ideas linked to specified geography subareas, each written as a curiosity-driven and highly attention-grabbing question or statement, preceded by a brief mapping/reflection on subareas and engagement potential. Use the phrasing “Why do…”, “What happens if…”, “Did you know…”, “How did…” as most appropriate for each topic. Avoid repetition—each topic must cover a different concept or fact. Output sections: Reflections, List of Topics.

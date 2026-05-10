@@ -1,0 +1,22 @@
+1 Explain [concept/subject] in simple terms, focusing on [specific aspect] and include real-world examples.
+
+
+2 Explain [concept] in [simple/technical] terms using an analogy related to [everyday object/industry].
+
+
+3 Break down [complex topic] into [number] principles. Explain each with examples from [industry].
+
+
+4 Break down [concept] for a [beginner/intermediate] audience, emphasizing [specific context].
+
+
+5 Simplify this [topic] explanation for a [age/audience]: [original text].
+
+
+6 Simulate a debate about [controversial topic] between [perspective A] and [perspective B].
+
+
+7 Explain [concept] using a step-by-step text-based flowchart. Include labels for [key components] and examples of how it applies to [real-world scenario].
+
+
+8 Act as a student confused about [topic]. Ask me 5 questions to test my understanding, then provide feedback on my   answers.

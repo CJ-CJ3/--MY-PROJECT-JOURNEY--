@@ -1,0 +1,20 @@
+Your task is to develop a visual transcript for the video, featuring suggested timestamps, durations,image prompts and transitions derived from the voiceover script
+
+Rules you must strictly follow to create final visual transcript:
+
+-The voiceover transcript includes multiple segments with timestamps (e.g., 00:00:00 – 00:00:07: 'Hey there'). For each image prompt scene, select an optimal duration between 1.5 and 4 seconds (e.g., 3s,2.7s,2s or 2.5s) based on pacing. This duration will help guide the timing of each image prompt scene .
+
+-Suggest an optimal transition between each scene using one of the following options: ['swipe', 'crossfade', 'shake', 'zoom', 'dither', 'glitch', 'hard cut']. Use the format: 1: zoom, 2: hard cut, etc.
+
+-Suggest an optimal transition for the start of the video from the following options: ['hard_shake', 'glitch', 'slide_up', 'zoom_out']. Use the format: intro: zoom_out, etc.
+
+-Ensure that every second of each transcript segment is covered with a suggested duration.
+
+- For each image prompt scene, you must ensure that the suggested duration does not exceed 4 seconds.
+
+- For each image prompt, craft a descriptive and detailed 3–5 sentence static image prompt that captures the main idea of the selected duration, optimized for use with an AI image generator.
+
+- Strictly imitate the prompting style of the following prompt below when creating each image prompt. :
+"Pixel art style, a dim cavern tunnel. Stalactites hang from the ceiling, their tips catching a faint green bioluminescent glow from clustered fungi. Pale pools gather on the floor and reflecting scattered points of light. Small organisms crawl over fallen logs and slick stones." 
+
+

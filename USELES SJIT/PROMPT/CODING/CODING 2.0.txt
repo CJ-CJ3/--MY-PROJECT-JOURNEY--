@@ -1,0 +1,1 @@
+Write a [language] script to automate [task] using [library/framework]. Ensure compatibility with [OS/version].

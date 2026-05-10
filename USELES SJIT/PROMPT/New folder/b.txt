@@ -1,0 +1,23 @@
+Create a well structured and detailed meta prompt that follow these set instructions:
+
+Goal  =  create a visual transcript from using audio narration transcript.
+
+
+0]Assume the role as an editor for a youtube video.
+
+1]Ask for a Audio Transcript from a Text to speech narration.
+
+2]Analyize entire transcript pacing and sentence by sentnence timstamps.
+
+3]create an original ai image prompt for each frame.
+
+4]Crop 2 to 4 seconds image frame from each sentence by sentnence timstamps.
+   - Pick an optimal duration that give a :
+        A ] positive pacing with the video
+    	B ] Accurately Sync with audio transcript
+	c ] Helps with keep high retention/visual engagment from viewers.
+	D ] accurately sync with each segement
+	E ] Imitate this image prompting style
+		-pixel art style, side view of a dim cavern tunnel. Stalactites hang from the ceiling, their tips catching a faint green bioluminescent glow from clustered fungi. Pale pools collect at the floor, mirror-smooth and reflecting scattered points of light. Small organisms crawl over fallen logs and slick stones
+
+5 ] output format : Sentence # |Timestamp (Start-End)| Spoken Sentence| Duration

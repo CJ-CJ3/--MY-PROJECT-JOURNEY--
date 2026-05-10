@@ -1,0 +1,7 @@
+Summarize the methodology and conclusions of this paper on [topic]: [paste your text here].
+
+Compare the key arguments of these two papers on [topic]: [Paper 1 summary] vs. [Paper 2 summary].
+
+Summarize trends in [research field] over the past decade. Highlight 3 groundbreaking studies and their impact.
+
+Convert this reference into [APA/MLA] format: [paste source]. Check for accuracy and consistency.

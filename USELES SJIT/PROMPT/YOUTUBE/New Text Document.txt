@@ -1,0 +1,11 @@
+Develop a Python script that performs the following tasks to generate the final MP4 video:
+
+ 1 - Import files from "C:\Users\CJ\Desktop\NERB - BETA1\VIDEO\SCENE\CLIPS" (eg.jpg,png,mp4,etc.).
+
+ 2 - Each imported file should be named using the format (2 - [2.5s].png) and arranged in the final video according to its sequence number (e.g., 1) and suggested duration (e.g., [3s]), as indicated in the file name format (e.g., 1 - [3s]).
+
+ 3 - Add the MP3 narration audio located at C:\Users\CJ\Desktop\NERB - BETA1\AUDIO-INPUT\1.mp3 to be in the final video.
+
+ 4 - If the imported video is longer than the suggested duration, trim it to match the suggested duration.
+
+ 5 - output the final video

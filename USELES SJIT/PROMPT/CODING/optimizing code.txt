@@ -1,0 +1,3 @@
+Here's a piece of code that needs optimization:
+[paste code]
+Please suggest optimizations to improve its performance. For each suggestion, explain the expected improvement and any trade-offs.

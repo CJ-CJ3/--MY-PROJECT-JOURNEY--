@@ -1,0 +1,17 @@
+Research Task: [Your specific research goal]
+
+Data Sources to Analyze:
+[List your sources]
+
+1. Extract key findings from each source
+2. Identify patterns and correlations
+3. Compare conflicting information
+4. Evaluate data reliability
+5. Prioritize insights by impact
+
+Output:
+- Executive Summary
+- Source Findings
+- Integrated Analysis
+- Data Reliability Assessment
+- Actionable Recommendations
