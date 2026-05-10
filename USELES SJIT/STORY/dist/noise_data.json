@@ -1,0 +1,47 @@
+{
+  "tasks": [
+    {
+      "id": 1771472372251,
+      "name": "print bolts",
+      "deadline": "2026-02-18 23:09:32",
+      "points": 10,
+      "status": "completed",
+      "is_timer": true,
+      "created": "2026-02-18 22:39:32",
+      "subtasks": []
+    },
+    {
+      "id": 1772073861032,
+      "name": "calipers",
+      "deadline": "2026-02-25 22:14:21",
+      "points": 10,
+      "status": "completed",
+      "is_timer": true,
+      "created": "2026-02-25 21:44:21",
+      "subtasks": []
+    },
+    {
+      "id": 1772234671030,
+      "name": "PAGE COLORING",
+      "deadline": "2026-02-27 20:54:31",
+      "points": 10,
+      "status": "failed",
+      "is_timer": true,
+      "created": "2026-02-27 18:24:31",
+      "subtasks": []
+    },
+    {
+      "id": 1772372449802,
+      "name": "clicker app",
+      "deadline": "2026-03-02 12:00:00",
+      "points": 10,
+      "status": "completed",
+      "is_timer": false,
+      "created": "2026-03-01 08:40:49",
+      "subtasks": []
+    }
+  ],
+  "total_points": 30,
+  "completed_tasks": 3,
+  "failed_tasks": 1
+}
